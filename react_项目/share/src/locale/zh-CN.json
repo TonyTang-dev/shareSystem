@@ -1,0 +1,103 @@
+{
+    "title":"知识分享系统",
+    "refresh":"刷新",
+    "skin":"皮肤",
+    "light":"浅色",
+    "dark":"深色",
+    "language":"语言",
+    "chinese":"中文",
+    "english":"英文",
+    "barSetting":"设置",
+    "searchSomething":"输入标题/账户/分类以搜索文章",
+
+    "myProfile":"我的资料",
+    "myPoint":"我的积分",
+    "editManage":"创作管理",
+    "loginOut":"退出登录",
+
+
+    
+    "console":"主控制台",
+    "myDataMenu":"我的资料",
+    "articleManage": "创作管理",
+    "creditManage":"积分管理",
+    "setting":"设置",
+
+    "homeMenu":[{"key":"blog","name":"博客星系"},{"key":"console","name":"主控制台"}, {"key":"profile","name":"我的资料"}, {"key":"edit","name":"创作管理"}, {"key":"credit","name":"积分管理"}, {"key":"setting","name":"设置"}],
+    "homeMenuAdmin":[{"key":"blog","name":"博客星系"},{"key":"console","name":"主控制台"}, {"key":"profile","name":"我的资料"}, {"key":"edit","name":"创作管理"}, {"key":"credit","name":"积分管理"}, {"key":"setting","name":"设置"}, {"key":"admin","name":"用户管理"}],
+    
+    "articleNum":"文章数量",
+    "commentNum":"评论数量",
+    "pointCount":"积分数量",
+    "myData":"我的资料",
+    "piece":"篇",
+    "commentPiece":"条",
+    "star":"星",
+    "people":"人",
+
+    "articleSort":"文章分类",
+    "totalSort":"共{num}类",
+    "myRanking":"我的排名",
+    "rankingCompare":"排名对比",
+    "rankingUp":"上升",
+
+    "articleStatistic":"文章数据",
+    "browse":"积分",
+    "like":"文章",
+    "count":"数量",
+    "date":"日期",
+    "weekday":"[\"top1\",\"top2\",\"top3\",\"top4\",\"top5\",\"top6\",\"top7\",\"top8\",\"top9\",\"top10\"]",
+
+    "rankTitle":"排行榜",
+    "pointRankList":"积分榜",
+    "articleRanklist":"文章榜",
+
+    "month":"[\"1月\",\"2月\",\"3月\",\"4月\",\"5月\",\"6月\",\"7月\",\"8月\",\"9月\",\"10月\",\"11月\",\"12月\"]",
+
+
+    "userSysNum":"用户总量",
+    "articleSysNum":"文章总量",
+    "daySysRegister":"日注册量",
+    "dayAccessNum":"日访问量",
+
+    "roleRatio":"用户比例",
+    "commonUser":"普通用户",
+    "administrator":"管理员",
+    "superAdmin":"超级管理员",
+
+    
+    "addUser":"添加用户",
+    "queryUser":"权限管理",
+    "addArticleType":"查看分类",
+    "publishNotice":"发布公告",
+    "sysEquipment":"系统配置",
+    "feedbackDealing":"反馈处理",
+
+    "userList_1":"账户",
+    "userList_2":"性别",
+    "userList_3":"电话",
+    "userList_4":"邮箱",
+    "userList_5":"文章",
+    "userList_6":"点赞",
+    "userList_7":"评论",
+    "userList_8":"排名",
+    "userList_9":"权限",
+    "userList_10":"操作",
+    "userList_11":"签名",
+    "userList_12":"关联菜单",
+
+    "changeTheme":"主题切换",
+    "changeLanguage":"语言切换",
+    "modifyData":"修改资料",
+    "resetSystem":"系统重置",
+    "aboutSys":"关于系统",
+    "aboutUs":"关于我们",
+
+    "sys_configuration":"系统设置",
+    "setting_theme":"主题设置",
+    "setting_language":"语言设置",
+    "setting_avatar":"修改头像",
+    "setting_background":"修改背景",
+    "setting_contact_us":"联系我们",
+    "setting_exit":"退出设置"
+}

@@ -1,0 +1,56 @@
+{
+    "sys":{
+        "statusBar":{
+            "title":"Knowledge Sharing",
+            "refresh":"refresh",
+            "skin":"theme",
+            "light":"light",
+            "dark":"dark",
+            "language":"language",
+            "chinese":"chinese",
+            "english":"english",
+            "barSetting":"setting",
+            "searchSomething":"type sth to search",
+            "mine":{
+                "myProfile":"my profile",
+                "myPoint":"points",
+                "editManage":"edit management",
+                "loginOut":"login out"
+            }
+        }
+    },
+    "home":{
+        "console":"console",
+        "myData":"profile",
+        "articleManage": "article",
+        "creditManage":"point",
+        "setting":"settings"
+    },
+    "console":{
+        "dataCard":{
+            "articleNum":"article",
+            "commentNum":"comment",
+            "pointCount":"point",
+            "myData":"mine"
+        },
+        "articleCard":{
+            "articleSort":"article sort",
+            "myRanking":"ranking",
+            "rankingCompare":"ranking comparing",
+            "rankingUp":"up"
+        },
+        "barChart":{
+            "articleStatistic":"article data",
+            "browse":"browse",
+            "like":"like",
+            "count":"amount",
+            "date":"date",
+            "weekday":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
+        },
+        "rankList":{
+            "rankTitle":"Rank List",
+            "pointRankList":"Point Rank",
+            "articleRanklist":"Article Rank"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+/* 全局层叠样式单，对全局的设置 */
+
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+	'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+	sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+		monospace;
+}
+
+
+.m_btn{
+	width: 80px;
+	height: 2em;
+	border: none;
+	border-radius: 5px;
+	outline: none;
+	box-shadow: 0px 2px 5px rgba(0,0,0,0.4);
+}
+.m_btn:hover{
+	cursor: pointer;
+}
+/* input:focus,textarea:focus{
+	background-color: azure;
+} */
+
+
+/* 设置滚动条的样式 */
+.scroll-bar::-webkit-scrollbar {
+	width:6px;
+}
+/* 滚动槽 */
+.scroll-bar::-webkit-scrollbar-track {
+	border-radius:10px;
+}
+/* 滚动条滑块 */
+.scroll-bar::-webkit-scrollbar-thumb {
+	border-radius:10px;
+	background:#ffbca0;
+}
+.scroll-bar::-webkit-scrollbar-thumb:window-inactive {
+	background:#ffbca0;
+}

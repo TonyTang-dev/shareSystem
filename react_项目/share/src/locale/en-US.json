@@ -1,0 +1,104 @@
+{
+    "title":"Knowledge Sharing",
+    "refresh":"refresh",
+    "skin":"theme",
+    "light":"light",
+    "dark":"dark",
+    "language":"language",
+    "chinese":"chinese",
+    "english":"english",
+    "barSetting":"setting",
+    "searchSomething":"type sth to search",
+    
+    "myProfile":"my profile",
+    "myPoint":"points",
+    "editManage":"edit management",
+    "loginOut":"login out",
+
+
+
+    "console":"console",
+    "myDataMenu":"profile",
+    "articleManage": "edition",
+    "creditManage":"point",
+    "setting":"settings",
+
+    "homeMenu":[{"key":"blog","name":"blog"},{"key":"console","name":"console"}, {"key":"profile","name":"profile"}, {"key":"edit","name":"edition"}, {"key":"credit","name":"point"}, {"key":"setting","name":"settings"}],
+    "homeMenuAdmin":[{"key":"blog","name":"blog"},{"key":"console","name":"console"}, {"key":"profile","name":"profile"}, {"key":"edit","name":"edition"}, {"key":"credit","name":"point"}, {"key":"setting","name":"setting"}, {"key":"admin","name":"administrator"}],
+    
+    "articleNum":"article",
+    "commentNum":"comment",
+    "pointCount":"point",
+    "myData":"mine",
+    "piece":"pieces",
+    "commentPiece":"pieces",
+    "star":"stars",
+    "people":"persons",
+
+    
+    "articleSort":"article sort",
+    "totalSort":"{num} sorts",
+    "myRanking":"ranking",
+    "rankingCompare":"ranking comparing",
+    "rankingUp":"up",
+    
+    "articleStatistic":"article data",
+    "browse":"credit",
+    "like":"article",
+    "count":"amount",
+    "date":"date",
+    "weekday":"[\"top1\",\"top2\",\"top3\",\"top4\",\"top5\",\"top6\",\"top7\",\"top8\",\"top9\",\"top10\"]",
+
+    "rankTitle":"Rank List",
+    "pointRankList":"Point Rank",
+    "articleRanklist":"Article Rank",
+
+    "month":"[\"Month 1\",\"Month 2\",\"Month 3\",\"Month 4\",\"Month 5\",\"Month 6\",\"Month 7\",\"Month 8\",\"Month 9\",\"Month 10\",\"Month 11\",\"Month 12\"]",
+
+
+    "userSysNum":"Total User",
+    "articleSysNum":"Total article",
+    "daySysRegister":"New User",
+    "dayAccessNum":"Accessed",
+
+    "roleRatio":"User Ratio",
+    "commonUser":"customer",
+    "administrator":"admin",
+    "superAdmin":"super-admin",
+
+    
+    "addUser":"add user",
+    "queryUser":"limit management",
+    "addArticleType":"check sort",
+    "publishNotice":"publish notice",
+    "sysEquipment":"configuration",
+    "feedbackDealing":"handle feedback",
+
+    "userList_1":"account",
+    "userList_2":"gender",
+    "userList_3":"phone",
+    "userList_4":"email",
+    "userList_5":"article",
+    "userList_6":"liked",
+    "userList_7":"comment",
+    "userList_8":"rank",
+    "userList_9":"authority",
+    "userList_10":"operation",
+    "userList_11":"sign",
+    "userList_12":"extendMenu",
+
+    "changeTheme":"Switch Theme",
+    "changeLanguage":"Switch Language",
+    "modifyData":"Modify Data",
+    "resetSystem":"Reset System",
+    "aboutSys":"About System",
+    "aboutUs":"About Us",
+
+    "sys_configuration":"configuration",
+    "setting_theme":"Theme",
+    "setting_language":"Language",
+    "setting_avatar":"Modify Avatar",
+    "setting_background":"Modify Background",
+    "setting_contact_us":"Contact Us",
+    "setting_exit":"exit"
+}
